@@ -61,7 +61,8 @@ Fokus på ytelse, struktur og clean design.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Streak
+
 <img src="https://streak-stats.demolab.com?user=OlaHenrik08&theme=dark&hide_border=true" />
 
 
