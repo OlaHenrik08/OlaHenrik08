@@ -1,4 +1,4 @@
-## 👋 Hei, jeg er Ola Henrik
+# 👋 Hei, jeg er Ola Henrik
 
 💻 Frontend / Fullstack-utvikler
 Jeg utvikler moderne og raske webapplikasjoner med fokus på clean code, ytelse og god UI/UX.(på fritiden for gøy)
@@ -8,7 +8,7 @@ Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge lø
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 - ⚛️ Sterk frontend-kompetanse med React & Next.js
 - 🔗 Fullstack-erfaring med Node.js og ASP.NET
 - 🔐 Har jobbet med autentisering (JWT), API-er og databaser
@@ -33,7 +33,7 @@ Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge lø
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaHenrik08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🌐 Next.js Portfolio
 Moderne portfolio bygget med Next.js, TypeScript og Tailwind CSS.
