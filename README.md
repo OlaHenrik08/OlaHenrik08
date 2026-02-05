@@ -61,19 +61,6 @@ Fokus på ytelse, struktur og clean design.
 
 ---
 
-### 🔐 Fullstack Web App
-Fullstack applikasjon med autentisering, API og database.
-
-**Tech:** React, Node.js, JWT, MySQL, Prisma, Docker  
-- REST API
-- Login / Auth
-- Database-relasjoner
-- Deploy
-
-📦 Repo: *(legg til når prosjektet er klart)*
-
----
-
 ## 📊 GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlaHenrik08&show_icons=true&theme=dark&hide_border=true)
