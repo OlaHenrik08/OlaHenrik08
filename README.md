@@ -61,12 +61,17 @@ Fokus på ytelse, struktur og clean design.
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=OlaHenrik08&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=OlaHenrik08&show_icons=true&theme=dark&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaHenrik08&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
-
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaHenrik08&layout=compact&theme=dark&hide_border=true"
+  alt="Top Languages"
+/>
 
 ---
 
