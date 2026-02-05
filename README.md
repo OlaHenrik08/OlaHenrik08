@@ -1,4 +1,4 @@
-👋 Hei, jeg er Ola Henrik
+## 👋 Hei, jeg er Ola Henrik
 
 💻 Frontend / Fullstack-utvikler
 Jeg utvikler moderne og raske webapplikasjoner med fokus på clean code, ytelse og god UI/UX.(på fritiden for gøy)
