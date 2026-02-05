@@ -1,83 +1,27 @@
-# 👋 Hei, jeg er Ola Henrik
+# 💫 About Me:
+# 👋 Hei, jeg er Ola Henrik<br><br>💻 **Frontend / Fullstack-utvikler**  <br>Jeg utvikler moderne og raske webapplikasjoner med fokus på **clean code**, **ytelse** og **god UI/UX**.(på fritiden for gøy) <br>Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge løsninger som både ser bra ut og fungerer bra.<br><br>🌐 **Portfolio:** https://nextjs-portfolio-ola.vercel.app/<br><br>---<br><br>## 🚀 About Me<br>- ⚛️ Sterk frontend-kompetanse med **React & Next.js**<br>- 🔗 Fullstack-erfaring med **Node.js og ASP.NET**<br>- 🔐 Har jobbet med **autentisering (JWT), API-er og databaser**<br>- 🧠 God forståelse for **SQL (JOINs, relations, datamodellering)**<br>- 🐳 Erfaring med **Docker og deploy**<br>- 🎨 Opptatt av **UI Design og brukeropplevelse**<br>- 📈 Alltid nysgjerrig på nye teknologier og beste praksis<br><br>---<br><br>## 🛠️ Tech Stack:<br><br>### Frontend<br>![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)<br>![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)<br>![React](https://img.shields.io/badge/React-000?logo=react)<br>![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)<br>![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)<br>![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)<br>![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)<br><br>### Backend & Database<br>![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)<br>![C#](https://img.shields.io/badge/C%23-000?logo=csharp)<br>![ASP.NET](https://img.shields.io/badge/ASP.NET-000?logo=dotnet)<br>![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)<br>![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)<br><br>### Tools & Workflow<br>![Git](https://img.shields.io/badge/Git-000?logo=git)<br>![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)<br>![Docker](https://img.shields.io/badge/Docker-000?logo=docker)<br>![Bun](https://img.shields.io/badge/Bun-000?logo=bun)<br>![Linux](https://img.shields.io/badge/Linux-000?logo=linux)<br><br>### UI / Design<br>![Figma](https://img.shields.io/badge/Figma-000?logo=figma)<br>![Canva](https://img.shields.io/badge/Canva-000?logo=canva)<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🌐 Next.js Portfolio<br>Moderne portfolio bygget med **Next.js, TypeScript og Tailwind CSS**.  <br>Fokus på ytelse, struktur og clean design.<br><br>🔗 Live: https://nextjs-portfolio-ola.vercel.app/  <br>📦 Repo: https://github.com/OlaHenrik08/portfolio<br><br>---<br><br>## 📈 GitHub Streak<br><br><img src="https://streak-stats.demolab.com?user=OlaHenrik08&theme=dark&hide_border=true" /><br><br><br>---<br><br>## 🏆 GitHub Trophies:<br><br>![Trophies](https://github-profile-trophy.vercel.app/?username=OlaHenrik08&theme=darkhub&no-frame=true&margin-w=8)<br><br>---<br><br>## 📫 Kontakt<br>- 📧 **olahenrik08@gmail.com**<br>- 🌐 Portfolio: https://nextjs-portfolio-ola.vercel.app/<br><br>---<br><br>⭐️ *Denne profilen er laget for å gi et profesjonelt og tydelig bilde av ferdigheter, erfaring og arbeidsmetode.*<br>
 
-💻 **Frontend / Fullstack-utvikler**  
-Jeg utvikler moderne og raske webapplikasjoner med fokus på **clean code**, **ytelse** og **god UI/UX**.(på fritiden for gøy) 
-Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge løsninger som både ser bra ut og fungerer bra.
 
-🌐 **Portfolio:** https://nextjs-portfolio-ola.vercel.app/
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ olahenrik08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ola Henrik Bjørntvedt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:olahenrik08@gmail.com) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OlaHenrik08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OlaHenrik08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaHenrik08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
-- ⚛️ Sterk frontend-kompetanse med **React & Next.js**
-- 🔗 Fullstack-erfaring med **Node.js og ASP.NET**
-- 🔐 Har jobbet med **autentisering (JWT), API-er og databaser**
-- 🧠 God forståelse for **SQL (JOINs, relations, datamodellering)**
-- 🐳 Erfaring med **Docker og deploy**
-- 🎨 Opptatt av **UI Design og brukeropplevelse**
-- 📈 Alltid nysgjerrig på nye teknologier og beste praksis
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=OlaHenrik08&theme=react&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🛠️ Tech Stack:
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![C#](https://img.shields.io/badge/C%23-000?logo=csharp)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-000?logo=dotnet)
-![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
-![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
-![Bun](https://img.shields.io/badge/Bun-000?logo=bun)
-![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
-
-### UI / Design
-![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
-![Canva](https://img.shields.io/badge/Canva-000?logo=canva)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=OlaHenrik08&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=OlaHenrik08&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 🌐 Next.js Portfolio
-Moderne portfolio bygget med **Next.js, TypeScript og Tailwind CSS**.  
-Fokus på ytelse, struktur og clean design.
-
-🔗 Live: https://nextjs-portfolio-ola.vercel.app/  
-📦 Repo: https://github.com/OlaHenrik08/portfolio
-
----
-
-## 📈 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=OlaHenrik08&theme=dark&hide_border=true" />
-
-
----
-
-## 🏆 GitHub Trophies:
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=OlaHenrik08&theme=darkhub&no-frame=true&margin-w=8)
-
----
-
-## 📫 Kontakt
-- 📧 **olahenrik08@gmail.com**
-- 🌐 Portfolio: https://nextjs-portfolio-ola.vercel.app/
-
----
-
-⭐️ *Denne profilen er laget for å gi et profesjonelt og tydelig bilde av ferdigheter, erfaring og arbeidsmetode.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
