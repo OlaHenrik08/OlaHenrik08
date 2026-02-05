@@ -1,5 +1,3 @@
-# 💫 About Me:
-# 👋 Hei, jeg er Ola Henrik<br><br>💻 **Frontend / Fullstack-utvikler**  <br>Jeg utvikler moderne og raske webapplikasjoner med fokus på **clean code**, **ytelse** og **god UI/UX**.(på fritiden for gøy) <br>Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge løsninger som både ser bra ut og fungerer bra.<br><br>🌐 **Portfolio:** https://nextjs-portfolio-ola.vercel.app/<br><br>---<br><br>## 🚀 About Me<br>- ⚛️ Sterk frontend-kompetanse med **React & Next.js**<br>- 🔗 Fullstack-erfaring med **Node.js og ASP.NET**<br>- 🔐 Har jobbet med **autentisering (JWT), API-er og databaser**<br>- 🧠 God forståelse for **SQL (JOINs, relations, datamodellering)**<br>- 🐳 Erfaring med **Docker og deploy**<br>- 🎨 Opptatt av **UI Design og brukeropplevelse**<br>- 📈 Alltid nysgjerrig på nye teknologier og beste praksis<br><br>---<br><br>## 🛠️ Tech Stack:<br><br>### Frontend<br>![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)<br>![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)<br>![React](https://img.shields.io/badge/React-000?logo=react)<br>![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)<br>![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)<br>![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)<br>![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)<br><br>### Backend & Database<br>![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)<br>![C#](https://img.shields.io/badge/C%23-000?logo=csharp)<br>![ASP.NET](https://img.shields.io/badge/ASP.NET-000?logo=dotnet)<br>![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)<br>![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)<br><br>### Tools & Workflow<br>![Git](https://img.shields.io/badge/Git-000?logo=git)<br>![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)<br>![Docker](https://img.shields.io/badge/Docker-000?logo=docker)<br>![Bun](https://img.shields.io/badge/Bun-000?logo=bun)<br>![Linux](https://img.shields.io/badge/Linux-000?logo=linux)<br><br>### UI / Design<br>![Figma](https://img.shields.io/badge/Figma-000?logo=figma)<br>![Canva](https://img.shields.io/badge/Canva-000?logo=canva)<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🌐 Next.js Portfolio<br>Moderne portfolio bygget med **Next.js, TypeScript og Tailwind CSS**.  <br>Fokus på ytelse, struktur og clean design.<br><br>🔗 Live: https://nextjs-portfolio-ola.vercel.app/  <br>📦 Repo: https://github.com/OlaHenrik08/portfolio<br><br>---<br><br>## 📈 GitHub Streak<br><br><img src="https://streak-stats.demolab.com?user=OlaHenrik08&theme=dark&hide_border=true" /><br><br><br>---<br><br>## 🏆 GitHub Trophies:<br><br>![Trophies](https://github-profile-trophy.vercel.app/?username=OlaHenrik08&theme=darkhub&no-frame=true&margin-w=8)<br><br>---<br><br>## 📫 Kontakt<br>- 📧 **olahenrik08@gmail.com**<br>- 🌐 Portfolio: https://nextjs-portfolio-ola.vercel.app/<br><br>---<br><br>⭐️ *Denne profilen er laget for å gi et profesjonelt og tydelig bilde av ferdigheter, erfaring og arbeidsmetode.*<br>
 👋 Hei, jeg er Ola Henrik
 
 💻 Frontend / Fullstack-utvikler
@@ -28,10 +26,18 @@ Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge lø
 ![](https://github-readme-stats.vercel.app/api?username=OlaHenrik08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OlaHenrik08&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaHenrik08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OlaHenrik08&theme=react&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 Featured Projects
 
+### 🌐 Next.js Portfolio
+Moderne portfolio bygget med Next.js, TypeScript og Tailwind CSS.
+Fokus på ytelse, struktur og clean design.
+
+🔗 Live: https://nextjs-portfolio-ola.vercel.app/
+📦 Repo: https://github.com/OlaHenrik08/portfolio
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
