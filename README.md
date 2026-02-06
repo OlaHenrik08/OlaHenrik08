@@ -43,6 +43,12 @@ Fokus på ytelse, struktur og clean design.
 📦 Repo: https://github.com/OlaHenrik08/portfolio
 
 ---
+# 🌐 My Recommend Webpages for upcoming devs like my self
+- https://animejs.com/
+- https://www.codedex.io/courses
+More coming soon...
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -52,9 +58,3 @@ Fokus på ytelse, struktur og clean design.
 ---
 [![](https://visitcount.itsvg.in/api?id=OlaHenrik08&icon=2&color=0)](https://visitcount.itsvg.in)
 
----
-# 🌐 My Recommend Webpages for upcoming devs like my self
-- https://animejs.com/
-- https://www.codedex.io/courses
-More coming soon...
----
