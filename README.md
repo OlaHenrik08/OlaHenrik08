@@ -40,7 +40,7 @@ Moderne portfolio bygget med Next.js, TypeScript og Tailwind CSS.
 Fokus på ytelse, struktur og clean design.
 
 🔗 Live: https://nextjs-portfolio-ola.vercel.app/ <br>
-📦 Repo: https://github.com/OlaHenrik08/portfolio
+📦 Repo: [https://github.com/OlaHenrik08/portfolio](https://github.com/OlaHenrik08/nextjs-portfolio-ola)
 
 ---
 # 🌐 My Recommend Webpages for upcoming devs like my self
