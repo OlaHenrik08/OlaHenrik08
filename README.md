@@ -39,7 +39,7 @@ Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge lø
 Moderne portfolio bygget med Next.js, TypeScript og Tailwind CSS.
 Fokus på ytelse, struktur og clean design.
 
-🔗 Live: https://nextjs-portfolio-ola.vercel.app/
+🔗 Live: https://nextjs-portfolio-ola.vercel.app/ <br>
 📦 Repo: https://github.com/OlaHenrik08/portfolio
 
 ---
