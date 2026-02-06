@@ -45,7 +45,9 @@ Fokus på ytelse, struktur og clean design.
 ---
 # 🌐 My Recommend Webpages for upcoming devs like my self
 - https://animejs.com/
-- https://www.codedex.io/courses <br>
+- https://www.codedex.io/courses
+- https://www.codecademy.com/
+- https://www.w3schools.com/ <br>
 More coming soon...
 
 ---
