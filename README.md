@@ -9,7 +9,7 @@ Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge lø
 ---
 
 # 🚀 About Me
-- ⚛️ God frontend-kompetanse med React & Next.js
+- ⚛️ God frontend-kompetanse med html, css og javacript samt React & Next.js
 - 🔗 Fullstack-erfaring med Node.js og ASP.NET
 - 🔐 Har jobbet med autentisering (JWT), API-er og databaser
 - 🧠 God forståelse for SQL (JOINs, relations, datamodellering)
