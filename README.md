@@ -49,6 +49,13 @@ Fokus på ytelse, struktur og clean design.
 🔗 Live: https://nextjs-portfolio-ola.vercel.app/ <br>
 📦 Repo: [https://github.com/OlaHenrik08/portfolio](https://github.com/OlaHenrik08/nextjs-portfolio-ola)
 
+### > CLI indo and Guide
+kul Guide side bygget med html, css og javascript + json
+fokus på kommando utsende og hjelp med CLI 
+
+🔗 Live: https://cli-info-page.vercel.app/ <br>
+📦 Repo: [https://github.com/OlaHenrik08/CLI-info-page](https://github.com/OlaHenrik08/CLI-info-page)
+
 ---
 # 🌐 My Recommend Webpages for upcoming devs like my self
 - https://animejs.com/
