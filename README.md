@@ -59,7 +59,8 @@ fokus på kommando utsende og hjelp med CLI
 ### 📈💰📊 Digital Solutions
 dette er min egen bedrift som seller tjenester som nettside bygging, IT support og mer. klikk in å se det jeg tilbyr
 
-🔗 Live: https://digilat-solutions.vercel.app/
+🔗 Live: [https://cli-info-page.vercel.app/](https://digilat-solutions.vercel.app/) <br>
+
 ---
 # 🌐 My Recommend Webpages for upcoming devs like my self
 - https://animejs.com/
