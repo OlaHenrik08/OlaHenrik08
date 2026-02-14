@@ -56,6 +56,10 @@ fokus på kommando utsende og hjelp med CLI
 🔗 Live: https://cli-info-page.vercel.app/ <br>
 📦 Repo: [https://github.com/OlaHenrik08/CLI-info-page](https://github.com/OlaHenrik08/CLI-info-page)
 
+### 📈💰📊 Digital Solutions
+dette er min egen bedrift som seller tjenester som nettside bygging, IT support og mer. klikk in å se det jeg tilbyr
+
+🔗 Live: https://digilat-solutions.vercel.app/
 ---
 # 🌐 My Recommend Webpages for upcoming devs like my self
 - https://animejs.com/
