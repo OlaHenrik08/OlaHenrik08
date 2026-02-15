@@ -13,7 +13,7 @@ Jeg trives i skjæringspunktet mellom design og teknologi, og liker å bygge lø
 - 🔗 Fullstack-erfaring med Node.js og ASP.NET
 - 🔐 Har jobbet med autentisering (JWT), API-er og databaser
 - 🧠 God forståelse for SQL (JOINs, relations, datamodellering)
-- 🐳 Erfaring med Docker og deploy
+- 🐳 litt Erfaring med Docker og deploy
 - 🎨 Opptatt av UI Design og brukeropplevelse
 - 📈 Alltid nysgjerrig på nye teknologier og beste praksis
 
