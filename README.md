@@ -66,7 +66,8 @@ dette er min egen bedrift som seller tjenester som nettside bygging, IT support 
 - https://animejs.com/
 - https://www.codedex.io/courses
 - https://www.codecademy.com/
-- https://www.w3schools.com/ <br>
+- https://www.w3schools.com/
+- https://roadmap.sh/ <br>
 More coming soon...
 
 ---
