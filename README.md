@@ -67,7 +67,8 @@ dette er min egen bedrift som seller tjenester som nettside bygging, IT support 
 - https://www.codedex.io/courses
 - https://www.codecademy.com/
 - https://www.w3schools.com/
-- https://roadmap.sh/ <br>
+- https://roadmap.sh/
+- https://www.udemy.com/course/postman-the-complete-guide/?utm_campaign=BG-Search_Keyword_Beta_Prof_la.EN_cc.ROW-English&utm_source=bing&utm_medium=paid-search&portfolio=Bing-ROW-English&utm_audience=mx&utm_tactic=nb&utm_term=Postman%20Guide&utm_content=o&funnel=&test=&utm_campaign_id=638596232&msclkid=bbb70bc84d82193411d96259b9ac6f3f <br>
 More coming soon...
 
 ---
