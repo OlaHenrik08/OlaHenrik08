@@ -61,6 +61,11 @@ dette er min egen bedrift som seller tjenester som nettside bygging, IT support 
 
 🔗 Live: https://digilat-solutions.vercel.app/ <br>
 
+### 📊💼👨‍💼 project manager
+dette er en smart måte å holde kontroll på egene projecter, byggd smart med kult design
+
+🔗 Live: link kommer snart... 
+
 ---
 # 🌐 My Recommend Webpages for upcoming devs like my self
 - https://animejs.com/
