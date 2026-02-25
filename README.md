@@ -64,7 +64,8 @@ dette er min egen bedrift som seller tjenester som nettside bygging, IT support 
 ### 📊💼👨‍💼 project manager
 dette er en smart måte å holde kontroll på egene projecter, byggd smart med kult design
 
-🔗 Live: link kommer snart... 
+🔗 Live: link kommer snart...<br>
+
 ###🖥️ JavaScript Learning Site
 Interaktiv nettside laget for å øve på DOM-manipulasjon, event listeners og dynamisk innhold.
 
