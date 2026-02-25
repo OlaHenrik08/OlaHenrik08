@@ -66,7 +66,7 @@ dette er en smart måte å holde kontroll på egene projecter, byggd smart med k
 
 🔗 Live: link kommer snart...<br>
 
-###🖥️ JavaScript Learning Site
+### 🖥️ JavaScript Learning Site
 Interaktiv nettside laget for å øve på DOM-manipulasjon, event listeners og dynamisk innhold.
 
 🔗 Live: https://javascript-learning-gamma.vercel.app/ <br>
