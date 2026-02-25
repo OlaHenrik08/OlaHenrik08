@@ -70,7 +70,7 @@ dette er en smart måte å holde kontroll på egene projecter, byggd smart med k
 Interaktiv nettside laget for å øve på DOM-manipulasjon, event listeners og dynamisk innhold.
 
 🔗 Live: https://javascript-learning-gamma.vercel.app/ <br>
-📦 Repo: [https://github.com/OlaHenrik08/Javascript-Learning]https://github.com/OlaHenrik08/Javascript-Learning
+📦 Repo: https://github.com/OlaHenrik08/Javascript-Learning
 
 ---
 # 🌐 My Recommend Webpages for upcoming devs like my self
