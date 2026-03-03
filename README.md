@@ -72,6 +72,12 @@ Interaktiv nettside laget for å øve på DOM-manipulasjon, event listeners og d
 🔗 Live: https://javascript-learning-gamma.vercel.app/ <br>
 📦 Repo: https://github.com/OlaHenrik08/Javascript-Learning
 
+### 🧟 The Walking Dead Fan Page
+En mørk og stemningsfull fan-side inspirert av The Walking Dead, med fokus på design, struktur og enkel interaktivitet.
+
+🔗 Live: https://zombie-page.vercel.app/ <br>
+📦 Repo: https://github.com/OlaHenrik08/Zombie-page
+
 ---
 # 🌐 My Recommend Webpages for upcoming devs like my self
 - https://animejs.com/
