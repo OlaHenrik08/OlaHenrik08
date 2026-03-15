@@ -120,7 +120,7 @@ En mørk og stemningsfull fan-side inspirert av The Walking Dead, med fokus på 
 📦 Repo: https://github.com/OlaHenrik08/Zombie-page
 
 ---
-# 🌐 My Recommend Webpages for upcoming devs like my self
+# 🌐 My Recommend Webpages for upcoming devs
 - https://animejs.com/
 - https://www.codedex.io/courses
 - https://www.codecademy.com/
