@@ -84,37 +84,45 @@ I thrive at the intersection of design and technology and love creating solution
 # 🚀 Featured Projects
 
 ### 🌐 Next.js Portfolio
-Moderne portfolio bygget med Next.js, TypeScript og Tailwind CSS.
-Fokus på ytelse, struktur og clean design.
+Modern portfolio built with Next.js, TypeScript and Tailwind CSS.  
+Focused on performance, structured architecture and clean design.
 
 🔗 Live: https://nextjs-portfolio-ola.vercel.app/ <br>
-📦 Repo: [https://github.com/OlaHenrik08/portfolio](https://github.com/OlaHenrik08/nextjs-portfolio-ola)
+📦 Repo: https://github.com/OlaHenrik08/nextjs-portfolio-ola
 
-### > CLI info and Guide
-kul Guide side bygget med html, css og javascript + json
-fokus på kommando utsende og hjelp med CLI 
+
+### 💻 CLI Info & Guide
+A clean and informative guide website built with HTML, CSS, JavaScript and JSON.  
+Designed to help users understand CLI commands with a terminal-inspired UI.
 
 🔗 Live: https://cli-info-page.vercel.app/ <br>
-📦 Repo: [https://github.com/OlaHenrik08/CLI-info-page](https://github.com/OlaHenrik08/CLI-info-page)
+📦 Repo: https://github.com/OlaHenrik08/CLI-info-page
 
-### 📈💰📊 Digital Solutions
-dette er min egen bedrift som seller tjenester som nettside bygging, IT support og mer. klikk in å se det jeg tilbyr
+
+### 📈 Digital Solutions
+My own small business where I offer services such as website development, IT support and digital solutions.  
+Visit the site to explore the services I provide.
 
 🔗 Live: https://digilat-solutions.vercel.app/ <br>
 
-### 📊💼👨‍💼 project manager
-dette er en smart måte å holde kontroll på egene projecter, byggd smart med kult design
 
-🔗 Live: link kommer snart...<br>
+### 📊 Project Manager App
+A smart web application for organizing and managing personal projects.  
+Built with a focus on usability and modern design.
+
+🔗 Live: Coming soon... <br>
+
 
 ### 🖥️ JavaScript Learning Site
-Interaktiv nettside laget for å øve på DOM-manipulasjon, event listeners og dynamisk innhold.
+Interactive learning website created to practice DOM manipulation, event listeners and dynamic content handling.
 
 🔗 Live: https://javascript-learning-gamma.vercel.app/ <br>
 📦 Repo: https://github.com/OlaHenrik08/Javascript-Learning
 
-### 🧟 The Walking Dead Fan Page
-En mørk og stemningsfull fan-side inspirert av The Walking Dead, med fokus på design, struktur og enkel interaktivitet.
+
+### 🧟 Fan Page Project
+A dark and atmospheric fan page inspired by The Walking Dead.  
+Focused on layout, styling and simple interactivity.
 
 🔗 Live: https://zombie-page.vercel.app/ <br>
 📦 Repo: https://github.com/OlaHenrik08/Zombie-page
