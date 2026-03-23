@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ola Henrik
 
-💻 IT Developer Apprentice at Skagerak Energi 
+💻 IT Developer Apprentice at Skagerak Energi
 🚀 Frontend / Fullstack Developer (passionate hobbyist)
 
 I enjoy building modern, fast and user-friendly web applications with a strong focus on clean code, performance and great UI/UX.  
