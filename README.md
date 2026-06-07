@@ -1,35 +1,31 @@
-# 👋 Hi, I'm Ola Henrik
+# 👋 Hey, I'm Ola Henrik
 
-💻 IT Developer Apprentice at Skagerak Energi
-🚀 Frontend / Fullstack Developer (passionate hobbyist)
+💻 IT Developer Apprentice @ Skagerak Energi  
+🚀 Frontend-focused developer building modern, fast and clean web experiences
 
-I enjoy building modern, fast and user-friendly web applications with a strong focus on clean code, performance and great UI/UX.  
-I thrive at the intersection of design and technology and love creating solutions that both look good and work well.
+I enjoy turning ideas into real products — especially where design, performance and usability come together.  
+Always building, always learning, always improving.
 
-🌐 Portfolio: https://nextjs-portfolio-ola.vercel.app/
+🌐 https://nextjs-portfolio-ola.vercel.app/
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- ⚡ IT Developer Apprentice at Skagerak Energi
-- ⚛️ Strong frontend skills in HTML, CSS, JavaScript, React & Next.js
-- 🔗 Fullstack experience with Node.js and ASP.NET
-- 🔐 Experience working with authentication (JWT), APIs and databases
-- 🧠 Good understanding of SQL (JOINs, relations, data modeling)
-- 🐳 Basic experience with Docker and deployment
-- 🎨 Passionate about UI design and user experience
-- 📈 Always curious about new technologies and best practices
+- ⚡ Developer with a strong focus on frontend & fullstack
+- ⚛️ Working mainly with React, Next.js & modern web tech
+- 🔗 Experience with APIs, authentication and databases
+- 🧠 Good understanding of SQL, structure and clean architecture
+- 🎨 Focused on UI/UX, performance and detail
+- 📈 Constantly learning and pushing my level
 
 ---
 
 ## 🌐 Socials
 
-- 💼 LinkedIn: https://linkedin.com/in/OlaHenrikBj
-- 📧 Email: olahenrik08@gmail.com
-- 📸 Instagram: https://instagram.com/olahenrik08
-
----
+- 💼 https://linkedin.com/in/OlaHenrikBj  
+- 📧 olahenrik08@gmail.com  
+- 📸 https://instagram.com/olahenrik08  
 
 # 💻 Tech Stack
 
@@ -75,74 +71,4 @@ I thrive at the intersection of design and technology and love creating solution
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OlaHenrik08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OlaHenrik08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaHenrik08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
 
-# 🚀 Featured Projects
-
-### 🌐 Next.js Portfolio
-Modern portfolio built with Next.js, TypeScript and Tailwind CSS.  
-Focused on performance, structured architecture and clean design.
-
-🔗 Live: https://nextjs-portfolio-ola.vercel.app/ <br>
-📦 Repo: https://github.com/OlaHenrik08/nextjs-portfolio-ola
-
-
-### 💻 CLI Info & Guide
-A clean and informative guide website built with HTML, CSS, JavaScript and JSON.  
-Designed to help users understand CLI commands with a terminal-inspired UI.
-
-🔗 Live: https://cli-info-page.vercel.app/ <br>
-📦 Repo: https://github.com/OlaHenrik08/CLI-info-page
-
-
-### 📈 Digital Solutions
-My own small business where I offer services such as website development, IT support and digital solutions.  
-Visit the site to explore the services I provide.
-
-🔗 Live: https://digilat-solutions.vercel.app/ <br>
-
-
-### 📊 Project Manager App
-A smart web application for organizing and managing personal projects.  
-Built with a focus on usability and modern design.
-
-🔗 Live: Coming soon... <br>
-
-
-### 🖥️ JavaScript Learning Site
-Interactive learning website created to practice DOM manipulation, event listeners and dynamic content handling.
-
-🔗 Live: https://javascript-learning-gamma.vercel.app/ <br>
-📦 Repo: https://github.com/OlaHenrik08/Javascript-Learning
-
-
-### 🧟 Fan Page Project
-A dark and atmospheric fan page inspired by The Walking Dead.  
-Focused on layout, styling and simple interactivity.
-
-🔗 Live: https://zombie-page.vercel.app/ <br>
-📦 Repo: https://github.com/OlaHenrik08/Zombie-page
-
----
-# 🌐 My Recommend Webpages for upcoming devs
-- https://animejs.com/
-- https://www.codedex.io/courses
-- https://www.codecademy.com/
-- https://www.w3schools.com/
-- https://roadmap.sh/
-- https://www.udemy.com/course/postman-the-complete-guide/ <br>
-More coming soon...
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OlaHenrik08&limit=5&theme=react&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=OlaHenrik08&icon=2&color=0)](https://visitcount.itsvg.in)
