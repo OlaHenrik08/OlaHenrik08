@@ -1,31 +1,33 @@
-# 👋 Hey, I'm Ola Henrik
+# 👋 Hei, jeg er Ola Henrik
 
-💻 IT Developer Apprentice @ Skagerak Energi  
-🚀 Frontend-focused developer building modern, fast and clean web experiences
+💻 IT-utvikler lærling hos Skagerak Energi  
+🚀 Frontend-fokusert utvikler som bygger moderne, raske og brukervennlige nettsider
 
-I enjoy turning ideas into real products — especially where design, performance and usability come together.  
-Always building, always learning, always improving.
+Jeg liker å gjøre ideer om til ekte produkter — spesielt der design, ytelse og brukeropplevelse møtes.  
+Alltid i utvikling, alltid nysgjerrig.
 
 🌐 https://nextjs-portfolio-ola.vercel.app/
 
 ---
 
-## 🚀 About Me
+## 🚀 Om meg
 
-- ⚡ Developer with a strong focus on frontend & fullstack
-- ⚛️ Working mainly with React, Next.js & modern web tech
-- 🔗 Experience with APIs, authentication and databases
-- 🧠 Good understanding of SQL, structure and clean architecture
-- 🎨 Focused on UI/UX, performance and detail
-- 📈 Constantly learning and pushing my level
+- ⚡ Utvikler med fokus på frontend og fullstack
+- ⚛️ Jobber mest med React, Next.js og moderne webteknologi
+- 🔗 Erfaring med API-er, autentisering og databaser
+- 🧠 God forståelse for SQL og strukturert utvikling
+- 🎨 Opptatt av UI/UX, ytelse og detaljer
+- 📈 Lærer kontinuerlig og jobber med å bli bedre
 
 ---
 
-## 🌐 Socials
+## 🌐 Sosialt
 
 - 💼 https://linkedin.com/in/OlaHenrikBj  
 - 📧 olahenrik08@gmail.com  
 - 📸 https://instagram.com/olahenrik08  
+
+---
 
 # 💻 Tech Stack
 
